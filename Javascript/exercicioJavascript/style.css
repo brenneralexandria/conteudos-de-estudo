@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(180deg, rgba(50, 27, 179) 0%, #74ccfc 100%);
+    height: 100vh;
+    color: aliceblue;
+}
+
+.btn {
+    background-color: blue;
+    color: aliceblue;
+    border: 0;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+    color: blue;
+}
